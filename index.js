@@ -67,14 +67,14 @@ const antivo = JSON.parse(fs.readFileSync("./lib/antivo.json"));
 const vcard = 'BEGIN:VCARD\n' //jangan ganti eror jngn nyesel
             + 'VERSION:3.0\n' //biarin aja eror jngn nyesel
             + 'FN:Mr F\n' //ganti aja 
-            + 'ORG: Fino julyan Anggara\n' //ganti aja
-            + 'TEL;type=CELL;type=VOICE;waid=6288210864298:+6288210864298\n'  //ganti nomor lu
+            + 'ORG: ALX\n' //ganti aja
+            + 'TEL;type=CELL;type=VOICE;waid=6283102050562:+6283102050562\n'  //ganti nomor lu
             + 'END:VCARD' //jangan ganti eror jangan nyesel
             
 banChats = true
 offline = false
-targetpc = '6288210964298' //Ganti nomer lu
-ownerNumber = '6288210864298', /Ganti nomrr lu
+targetpc = '6283102020562' //Ganti nomer lu
+ownerNumber = '6283102050562', /Ganti nomrr lu
 fake = '𝙿𝚈𝚃𝙷𝙾𝙽 𝙱𝙾𝚃菲诺
 namaig = `Instagram.com/finoooooo_` //ganti nama lu 
 numbernye = '0'
